@@ -1,5 +1,5 @@
 # 📊 Fintech Customer Behavior Analysis
-**Proyecto 1 — Portafolio Data Analyst | 2025**  
+**Portafolio Data Analyst | 2025**  
 Datos transaccionales 2023–2025
 
 ---
