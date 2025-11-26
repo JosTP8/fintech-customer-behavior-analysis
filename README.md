@@ -92,7 +92,7 @@ Archivo disponible en el repositorio:
 ├── 01_analisis_fintech.ipynb
 ├── dashboard_proyecto_1.pdf
 ├── README.md
-└── data/
+└── finance_dataset/
 
 ---
 
